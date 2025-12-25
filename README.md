@@ -40,24 +40,36 @@ Data de empréstimo
 Data prevista de devolução
 Status:
   Emprestado
+
   Devolvido
+  
   Atrasado
 
 Dashboard
 Total de livros cadastrados
+
 Livros emprestados
+
 Livros disponíveis
+
 Empréstimos em atraso
 
 3️ - Entidades principais do sistema
 Livro
+
 Aluno
+
 Funcionário
+
 Empréstimo
 
 4️  - Stack Tecnológica
 Backend: Java, Spring Boot
+
 Frontend: HTML, CSS, Bootstrap, JavaScript
+
 Banco de dados: Postgree
+
 Upload de imagens: pasta local ou base64
+
 Versionamento: Git + GitHub
