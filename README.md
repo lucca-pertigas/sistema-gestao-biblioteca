@@ -4,6 +4,7 @@ Sistema de Gestão Técnica para Bibliotecas, desenvolvido como uma aplicação 
 
 O sistema permite acompanhar livros disponíveis e emprestados, manter o histórico de empréstimos e disponibilizar informações detalhadas das obras, incluindo sinopse e imagem da capa, simulando um ambiente real de biblioteca acadêmica ou institucional.
 
+
 2️ - Escopo Funcional (o que o sistema faz)
 Autenticação:
   Login de alunos e funcionários
