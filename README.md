@@ -49,13 +49,13 @@ Livros emprestados
 Livros disponíveis
 Empréstimos em atraso
 
-3️ Entidades principais do sistema
+3️ - Entidades principais do sistema
 Livro
 Aluno
 Funcionário
 Empréstimo
 
-4️ Stack Tecnológica
+4️  - Stack Tecnológica
 Backend: Java, Spring Boot
 Frontend: HTML, CSS, Bootstrap, JavaScript
 Banco de dados: Postgree
